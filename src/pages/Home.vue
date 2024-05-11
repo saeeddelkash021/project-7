@@ -8,7 +8,7 @@
                     aliquid ullam repudiandae? Distinctio nihil, ratione dignissimos sapiente laudantium obcaecati,
                     explicabo alias molestias atque necessitatibus vero quo omnis, architecto corporis error eum dolorem
                     optio incidunt et fugiat. Consectetur odio consequatur repellendus nihil recusandae autem nam,
-                    dolore est.
+                    dolore est lorem imsum
                 </p>
 
                 <RouterLink class="btn btn-dark" :to="{name:'users'}">Users</RouterLink>
